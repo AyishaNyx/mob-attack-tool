@@ -27,7 +27,7 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/daft-develop/mob-attack-tool",
+  "url": "https://github.com/AyishaNyx/mob-attack-tool",
   "version": "0.5.1",
   "compatibility": {
     "minimum": "10",
@@ -53,6 +53,6 @@
   "styles": [
     "/styles/mob-attack-tool.css"
   ],
-  "manifest": "https://raw.githubusercontent.com/daft-develop/mob-attack-tool/master/module.json",
-  "download": "https://github.com/daft-develop/mob-attack-tool/releases/latest/download/module.zip"
+  "manifest": "https://raw.githubusercontent.com/AyishaNyx/mob-attack-tool/master/module.json",
+  "download": "https://github.com/AyishaNyx/mob-attack-tool/releases/latest/download/module.zip"
 }
