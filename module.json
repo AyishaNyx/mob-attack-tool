@@ -1,6 +1,6 @@
 {
   "id": "mob-attack-tool",
-  "title": "Mob Attack Tool",
+  "title": "Mob Attack Tool Test",
   "description": "A module for dnd5e that adds support for Mob Attacks.",
   "authors": [
     {
@@ -28,7 +28,7 @@
     }
   ],
   "url": "https://github.com/daft-develop/mob-attack-tool",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
